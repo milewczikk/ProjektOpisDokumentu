@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfKsiazka xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ksiazka>
+    <Id>1</Id>
+    <Nazwa>Srebrny dzwoneczek</Nazwa>
+    <Autor>Kiereś Emilia</Autor>
+    <Wydawnictwo>Akapit Press</Wydawnictwo>
+    <Seria />
+    <Kod>925000603009</Kod>
+    <Dostepnosc>Dostępny jest 1 egzemplarz.</Dostepnosc>
+    <Gatunek>Fikcja</Gatunek>
+  </Ksiazka>
+  <Ksiazka>
+    <Id>2</Id>
+    <Nazwa>Pociągi : sprawdźcie sami... : ponad 60 okienek</Nazwa>
+    <Autor>Bone Emily</Autor>
+    <Wydawnictwo>OLESIEJUK</Wydawnictwo>
+    <Seria>Książka z Okienkami</Seria>
+    <Kod>925000602996</Kod>
+    <Dostepnosc>Dostępnych jest 10 egzemplarzy.</Dostepnosc>
+    <Gatunek>Fikcja</Gatunek>
+  </Ksiazka>
+  <Ksiazka>
+    <Id>3</Id>
+    <Nazwa>Eragon : dziedzictwa księga pierwsza</Nazwa>
+    <Autor>Paolini Christopher</Autor>
+    <Wydawnictwo>Mag</Wydawnictwo>
+    <Seria>Dziedzictwo</Seria>
+    <Kod>923001014459</Kod>
+    <Dostepnosc>Została wypożyczona</Dostepnosc>
+    <Gatunek>Fantastyka naukowa</Gatunek>
+  </Ksiazka>
+</ArrayOfKsiazka>
